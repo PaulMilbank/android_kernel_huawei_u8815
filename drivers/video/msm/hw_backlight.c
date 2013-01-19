@@ -30,7 +30,7 @@
 #define PM_GPIO25_PWM_ID  1
 #define PM_GPIO26_PWM_ID  2
 #define ADD_VALUE			4
-#define PWM_LEVEL_ADJUST	226
+#define PWM_LEVEL_ADJUST	240
 #define BL_MIN_LEVEL 	    15
 
 /*< DTS2012051704510 houming 20120517 begin */
